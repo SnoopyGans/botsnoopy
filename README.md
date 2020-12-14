@@ -1,189 +1,55 @@
-<p align="center">
-<img src="https://l.top4top.io/p_1809qkagv0.jpg" width="128" height="128"/>
-</p>
-<p align="center">
-<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/SnoopyGans"><img title="Author" src="https://img.shields.io/badge/AUTHOR-SnoopyGans-orange.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/badge/master"></a>
-</p>
-<p align="center">
-<a href="https://github.com/arugaz/followers"><img title="Followers" src="https://img.shields.io/github/followers/arugaz?color=blue&style=flat-square"></a>
-<a href="https://github.com/arugaz/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/arugaz/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/arugaz/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/arugaz/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/arugaz/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/arugaz/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FArugaZ%2Fwhatsapp-bot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-</p>
-<div align="center">
-<details>
- <summary>🥟 Help me!</summary>
- 
- [Trakteer](https://trakteer.id/arugabot)
- 
-</details>
+## NAMA BOT
+BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
-ini semua gratis, jangan pelit ⭐️ ya :D
-<p align="center"><a href="https://wa.me/12255032879?text=%23menu" target="_blank">My Whatsapp BOT</a>.</p>
-</div>
 
-## Getting Started
 
-This project require NodeJS v12.
 
-### Install
-Clone this project
 
+
+
+## CARA INSTALL
+# TERMUX
 ```bash
-> git clone https://github.com/SnoopyGans/botwa.git
-> cd whatsapp-bot
+> download termux
+> buka
+> pkg install git
+> pkg install ffmpeg
+> pkg install nodejs
+> apt update && apt upgrade
+> git clone https://github.com/benisadewa/reuzsc
+> cd reuzsc
+> bash install.sh
+> node index.js
 ```
 
-Install the dependencies:
 
-```bash
-> npm install 
-> npm install gify-cli -g
-```
+# FITUR
 
-### Usage
-Run the Whatsapp bot
+| KEADAAN       |               FITUR     |
+| :-----------: | :--------------------------------:  |
+|       ✅       |    PANTUN                         |
+|       ✅       | ANIMEPICT                         |
+|       ✅       | STICKER                           |
+|       ✅       | NULIS                             |
+|       ✅       | QUOTES                            |
+|       ✅       | RANDOM PICT                       |
+|       ✅       | ANIMEPICT                         |
+|       ✅       | LIRIK                             |
+|       ✅       | ALAY                              |
+|       ✅       | YT,YTMP3,IG,TWT DOWNLOADER        |
+|       ✅       | WIKIPEDIA                         |
+|       ✅       | ARTI NAMA                         |
+|       ✅       | SHOLAT                            |
+|       ✅       | QURAN                             |
+|       ✅       | KAMING SUN                        |
 
-```bash
-> npm start
-```
-
-after running it you need to scan the qr
-
-
----
-
-## Features
-
-| 18+ |Yes|
-| ------------- | ------------- |
-| Nekopoi |✅|
-
-| Creator |Yes|
-| ------------- | ------------- |
-| Respond img to sticker|✅|
-| Respond img to sticker no bg|✅|
-| Respond url to sticker|✅|
-| Respond gif to sticker|✅|
-| Respond giphy url to sticker|✅|
-| Make a meme from photo|✅|
-| Quotes maker result pict|✅|
-| Nulis Bot|✅|
-
-| Islam |Yes|
-| ------------- | ------------- |
-| List Surah|✅|
-| Info Surah|✅|
-| Surah|✅|
-| Tafsir Alquran|✅|
-| Alquran Audio/Voice|✅|
-| Jadwal solat|✅|
-
-| Downloader |Yes|
-| ------------- | ------------- |
-| Youtube Music |✅|
-| Youtube Video |✅|
-| Facebook |✅|
-
-| Fun Group! |Yes|
-| ------------- | ------------- |
-| Simi-simi BOT|✅|
-| Anti kata kasar|✅|
-
-| Primbon |Yes|
-| ------------- | ------------- |
-| Arti nama |✅|
-| Cek Jodoh |✅|
-
-| Searchs |Yes|
-| ------------- | ------------- |
-| Images |✅|
-| Subreddit |✅|
-| Resep makanan |✅|
-| Stalk IG |✅|
-| Wikipedia |✅|
-| Cuaca |✅|
-| Chord musik |✅|
-| Lirik musik |✅|
-| Screen Crot!|✅|
-| Play music|✅|
-| whats anime?|✅|
-
-| Random text |Yes|
-| ------------- | ------------- |
-| Pantun pakboy|✅|
-| Fakta Menarik|✅|
-| Kata Bijak|✅|
-| Quotes|✅|
-| Cerita Sex|✅|
-| Cerita Pendek|✅|
-| Puisi|✅|
-
-| Random image |Yes|
-| ------------- | ------------- |
-| Anime |✅|
-| Kpop |✅|
-| Memes |✅|
+ket : ✅ : aktif
 
 
-| Others |Yes|
-| ------------- | ------------- |
-| Teks to Sound/Voice|✅|
-| Translate teks|✅|
-| Get covid info from map|✅|
-| Covid-19 Indo|✅|
-| Shortlink|✅|
-| Bap4k F0nt|✅|
-
-| Groups |Yes|
-| ------------- | ------------- |
-| Owner||
-| Kick all members|✅|
-| Admin||
-| Add user|✅|
-| Kick user|✅|
-| Promote User|✅|
-| Demote User|✅|
-| Mute Group|✅|
-| Change Group icon|✅|
-| Delete bot msg|✅|
-| Tagall/mentions all|✅|
-| Welcome ON/OFF|✅|
 
 
-| Owner bot |Yes|
-| ------------- | ------------- |
-| Broadcast|✅|
-| Leave all group|✅|
-| Delete all msgs|✅|
-| Banned user|✅|
+## THANKS TO
+* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
-
-## To-Do
- - Add Media Downloader
- - Add More Feature
- - More refactoring
- 
----
-
-## Troubleshooting
-Make sure all the necessary dependencies are installed: https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md
-
-Fix Stuck on linux, install google chrome stable: 
-```bash
-> wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-> sudo apt install ./google-chrome-stable_current_amd64.deb
-```
-
-## Thanks to
-- [WA-Automate](https://github.com/open-wa/wa-automate-nodejs)
-- [YogaSakti](https://github.com/YogaSakti/imageToSticker)
-- [MhankBarBar](https://github.com/MhankBarBar/whatsapp-bot)
-- [dandyraka](https://github.com/dandyraka/NoBadWord)
+## DONASI
+*
